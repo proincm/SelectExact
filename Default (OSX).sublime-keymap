@@ -1,0 +1,9 @@
+[
+    {
+        "keys": ["super+shift+d"],
+        "command": "select_exact_match"
+    }, {
+        "keys": ["super+ctrl+alt+g"],
+        "command": "select_all_exact_matches"
+    }
+]
